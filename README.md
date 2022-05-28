@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mkyneto
-- 👀 I’m interested in Program Games
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on college project
+- Como dijo un sabio:
+- "Albion online es un mmorpg no lineal, en el que escribes tu propia historia sin limitarte a seguir un camino prefijado"
+- -Albion online.
