@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mkyneto
+- 👀 I’m interested in Program Games
+- 🌱 I’m currently learning engineering
+- 💞️ I’m looking to collaborate on college project
